@@ -11,3 +11,5 @@ remind letters made from folded tape.
 Iceberg is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
+
+![Iceberg Font](src/sample.png)
